@@ -1,0 +1,23 @@
+[sample.01]
+input = """
+4 2
+"""
+output = """
+6
+"""
+
+[sample.02]
+input = """
+6 6
+"""
+output = """
+12
+"""
+
+[sample.03]
+input = """
+3 4
+"""
+output = """
+Never
+"""
